@@ -1,7 +1,7 @@
 # Notes per Unit
 
 ## Unit 1
-
+here my notes
 
 ## Unit 2. Frameworks for AI Agents
 
